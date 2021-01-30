@@ -1,4 +1,4 @@
 # delphi-eval
  Delphi Evaluator
 
-IDE Style https://github.com/jonpalmisc/RADStudioStyles
+Recommended IDE Style: https://github.com/jonpalmisc/RADStudioStyles
